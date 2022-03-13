@@ -22,13 +22,10 @@ export const login =
     });
 
     await axios
-      .post(
-        `${process.env.REACT_APP_JTLX_API_URL}/auth/login`,
-        { username, password },
-        {
-          withCredentials: true,
-        }
-      )
+      .post(`${process.env.REACT_APP_JTLX_API_URL}/auth/login`, {
+        username,
+        password,
+      })
       .then((res) => {
         console.log(res.data);
         sessionStorage.setItem("access_token", res.data.access_token);
