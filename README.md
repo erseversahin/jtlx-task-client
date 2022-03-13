@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+![jet-task.png](jet-task.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [JetTask](https://jtlx-task-client.herokuapp.com/)
+![JavaScript](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+
+This project(JetTask😊) active on heroku. You can ``register``, ``login`` and ``listing users by pagination``.
+
+This project was bootstrapped with Create React App.
 
 ## Available Scripts
 
