@@ -1,4 +1,4 @@
-![jet-task.png](jet-task.png)
+![jet-task.png](./jet-task.png)
 
 ## [JetTask](https://jtlx-task-client.herokuapp.com/)
 ![JavaScript](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
