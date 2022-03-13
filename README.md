@@ -1,11 +1,14 @@
 ![jet-task.png](./jet-task.png)
 
 ## [JetTask](https://jtlx-task-client.herokuapp.com/)
-![JavaScript](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Open In Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 
 This project(JetTask😊) active on heroku. You can ``register``, ``login`` and ``listing users by pagination``.
+
+[https://jtlx-task-client.herokuapp.com/](https://jtlx-task-client.herokuapp.com/)
 
 This project was bootstrapped with Create React App.
 
